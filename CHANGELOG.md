@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/bledeabogdan/semantic-release-test/compare/v1.0.0...v1.1.0) (2022-12-05)
+
+
+### Features
+
+* add inverse method ([a4accd3](https://github.com/bledeabogdan/semantic-release-test/commit/a4accd3931ebec8320c805e2ed625a671ceae460))
+
 # 1.0.0 (2022-12-05)
 
 
