@@ -20,3 +20,9 @@ export function product(a, b) {
 export function negative(a) {
   return -a;
 }
+
+export function inverse(a) {
+  if (a !== 0) return 1 / a;
+
+  return undefined;
+}
