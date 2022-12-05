@@ -10,4 +10,4 @@
 
 ### Features
 
-* add negative method ([4223a1a](https://github.com/bledeabogdan/semantic-release-test/commit/4223a1a8f025191c8dfbeb0802ff74f4b660a7bf))
+* add negative method manual-change ([4223a1a](https://github.com/bledeabogdan/semantic-release-test/commit/4223a1a8f025191c8dfbeb0802ff74f4b660a7bf))
