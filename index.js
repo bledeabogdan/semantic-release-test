@@ -26,3 +26,10 @@ export function inverse(a) {
 
   return undefined;
 }
+
+export function abs(a) {
+  if (a === 0) return 0;
+  if (a < 0) return -a;
+
+  return a;
+}
