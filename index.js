@@ -15,3 +15,8 @@ export function division(a, b) {
 export function product(a, b) {
   return a * b;
 }
+
+
+export function negative(a) {
+  return -a;
+}
